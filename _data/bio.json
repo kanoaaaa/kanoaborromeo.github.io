@@ -1,26 +1,24 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Kanoa Borromeo",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "picture": "https://github.com/kanoaborromeo.png",
+    "email": "dkb25@hawaii.edu",
+    "phone": "(206) 755-3405",
+    "website": "https://kanoaborromeo.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2025, and apply for law school in 2026.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "kanoaaaa", "url": "http://github.com/changeme" },
+      { "network": "linkedin", "username": "kanoa-borromeo", "url": "https://www.linkedin.com/in/kanoa-borromeo-a69203326/" },
+      { "network": "instagram", "username": "kanoaborromeo", "url": "https://www.instagram.com/kanoa_borromeo/" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Software Engineering" },
+    { "name": "Artificial Intelligence" },
+    { "name": "Computer Ethics" },
+    { "name": "Writing" }|
   ],
   "skills": [
     {
