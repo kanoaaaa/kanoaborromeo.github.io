@@ -6,10 +6,15 @@
     "email": "dkb25@hawaii.edu",
     "phone": "(206) 755-3405",
     "website": "https://kanoaborromeo.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2025, and apply for law school in 2026.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall 2025 and apply for law school in 2026.",
+    "location": {
+      "postalCode": "96822",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
     "profiles": [
-      { "network": "github", "username": "kanoaaaa", "url": "http://github.com/changeme" },
+      { "network": "github", "username": "kanoaaaa", "url": "https://github.com/kanoaaaa" },
       { "network": "linkedin", "username": "kanoa-borromeo", "url": "https://www.linkedin.com/in/kanoa-borromeo-a69203326/" },
       { "network": "instagram", "username": "kanoaborromeo", "url": "https://www.instagram.com/kanoa_borromeo/" }
     ]
@@ -23,7 +28,7 @@
   "skills": [
     {
       "name": "Programming Languages",
-      "keywords": [ "C", "Java", "Javascript", "TypeScript", "Python" ]
+      "keywords": [ "C", "Java", "JavaScript", "TypeScript", "Python" ]
     },
     {
       "name": "Spoken Languages",
@@ -33,10 +38,11 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2025)",
+      "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2023-08-26",
-      "endDate": "2025-12-21"
+      "endDate": "2025-12-21",
+      "summary": "Expected Fall 2025"
     },
     {
       "institution": "Saint Mary's College of California, Moraga, CA",
@@ -45,39 +51,36 @@
       "startDate": "2021-08-26",
       "endDate": "2023-05-07"
     }
+  ],
   "work": [
     {
       "company": "UH Manoa Research Team - IDEA Lab",
       "position": "Research Assistant",
-      "website": "",
       "startDate": "2023-09-01",
       "endDate": "Present",
-      "summary": "Support other members with feedback, troubleshoot design flaws, conceptualize my own research project, Professor Michael-Brian Ogawa, PhD., Principle Investigator",
+      "summary": "Support other members with feedback, troubleshoot design flaws, and conceptualize my own research project. Supervisor: Professor Michael-Brian Ogawa, PhD."
     },
     {
       "company": "UH Manoa Computer Science Learning Assistant (LA)",
       "position": "Learning Assistant",
-      "website": "",
       "startDate": "2024-08-27",
       "endDate": "Present",
-      "summary": "Help college freshman understand computer science foundations in CS Lab"
+      "summary": "Help college freshmen understand computer science foundations in the CS Lab."
     },
     {
       "company": "UH Manoa Computer Science Assistant Teaching Assistant (ATA)",
-      "position": "Learning Assistant",
-      "website": "",
+      "position": "Assistant Teaching Assistant",
       "startDate": "2024-01-08",
       "endDate": "2024-05-01",
-      "summary": "Help college freshman understand computer science foundations in CS Lab"
+      "summary": "Help college freshmen understand computer science foundations in the CS Lab."
     },
     {
       "company": "Oke Poke - Walnut Creek, CA",
       "position": "Junior Associate",
-      "website": "",
       "startDate": "2023-04-23",
       "endDate": "2023-07-23",
-      "summary": "Preped, assembled, and served food to customers, managed cash register, responsible for closing shop. "
-    },
+      "summary": "Prepared, assembled, and served food to customers, managed the cash register, and was responsible for closing the shop."
+    }
   ],
   "awards": [
     {
@@ -85,7 +88,7 @@
       "date": "2024-Present",
       "awarder": "UROP",
       "summary": "Scholarship awarded to fund research."
-    },
+    }
   ],
   "references": [
     {
