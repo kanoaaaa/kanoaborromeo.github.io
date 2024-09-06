@@ -8,38 +8,6 @@ published: true
 labels:
   - Computer Science
 ---
-Novice Guide to TypeScript									          1
-
-
-
-
-
-
-
-
-
-
-
-
-A D1 Polyglot’s Novice Guide to Learning TypeScript
-
-Dominic Kanoa Borromeo
-Professor Conner
-ICS - 314
-09/04/2023
-
-
-
-
-
-
-
-
-
-
-
-
-Novice Guide to TypeScript									          2
 
   The balanced properties of TypeScript provide novice Java users a language that combines the flexibility of dynamic typing with the safety of structured static typing. As someone that only started computer science a year ago, my application of different programming languages is limited to Python and Java. I studied computer science and compiled Python-based programs for the first time in the semester prior to my transfer to UH Manoa. I appreciated Python for its versatility and simplistic syntax. My comfort with Python was uprooted upon taking ICS 111 and adjusting to Java and defining types for every variable. The initial adjustment to Java’s style was not substantial, as the innate similarity to Python's logical execution of statements established a common framework for developing Java. With an understanding of Python and Java allows me to view the potential of using TypeScript as a combination of Python's ease and Java's robustness.
   
