@@ -25,7 +25,10 @@ Responding quickly on my feet is nothing new to me–literally. As a former D1 s
 
 The regret of not solving a WOD motivates me to promptly dissect the question and formulate a solution. When practicing WODs, I remind myself that they are challenging, but not impossible, and therefore a solution exists. Finding the solution to a WOD requires creativity and resilience, qualities that I embody. With a strong foundation in TypeScript, an individual can be more creative in how they approach and develop code to solve the WOD.
 
-I enjoy deepening my understanding of computer science, and the w3school tutorial of TypeScript was inspiring to learn more. For example, the w3school description of Parameter Union Operators, which stated,”Using the | we are saying our parameter is a “string” or “number”,” was a simple but effective elucidation. The clear explanation helped me understand the concept, and led my curiosity to wonder if multiple union operators could be used in a parameter statement. Testing this hypothesis in TypePlayground confirmed that it was indeed possible, furthermore widening my understanding of how TypeScript can be used. The curiosity to learn more emboldens my confidence in tackling WODs, even when I encounter setbacks. 
+I enjoy deepening my understanding of computer science, and the w3school tutorial of TypeScript was inspiring to learn more. For example, the w3school description of Parameter Union Operators, which stated, “Using the | we are saying our parameter is a ‘string’ or ‘number’,” was a simple but effective elucidation. The clear explanation helped me understand the concept, and led my curiosity to wonder if multiple union operators could be used in a parameter statement.
+
+Testing this hypothesis in TypePlayground confirmed that it was indeed possible, furthermore widening my understanding of how TypeScript can be used. The curiosity to learn more emboldens my confidence in tackling WODs, even when I encounter setbacks.
+
  
 When one approach to solving the WOD does not work, I re-evaluate the syntax and choice of control statement, then experiment with other solutions. My problem solving will improve as I master TypeScript, but communicating with peers and receiving feedback on different approaches is equally powerful to aiding improvement. 
 
