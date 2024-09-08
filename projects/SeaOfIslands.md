@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/pexels-photo-9559882.jpeg
+image: img/pexels-photo-9559882 copy.jpeg
 title: "Sea Of Islands"
 date: 2024
 published: true
