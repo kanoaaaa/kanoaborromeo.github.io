@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/photo-1683721003111-070bcc053d8b.jpeg
 title: "AnalyzeSocial"
 date: 2024
 published: true
