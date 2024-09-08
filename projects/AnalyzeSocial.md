@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/photo-1683721003111-070bcc053d8b.jpeg
+image: img/photo-1683721003111-070bcc053d8b copy.jpeg
 title: "AnalyzeSocial"
 date: 2024
 published: true
