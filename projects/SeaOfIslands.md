@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/img/sea-of-thieves-uncharted-island-at-n13.webp
 title: "Sea Of Islands"
 date: 2015
 published: true
