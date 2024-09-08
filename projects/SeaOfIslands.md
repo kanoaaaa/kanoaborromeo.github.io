@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: img/img/sea-of-thieves-uncharted-island-at-n13.webp
+image: img/pexels-photo-9559882.jpeg
 title: "Sea Of Islands"
-date: 2015
+date: 2024
 published: true
 labels:
   - Python
