@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/39723220-dictionary-definition-of-the-word-translation.jpg
 title: "Hawaiian-English Dictionary"
 date: 2024
 published: true
