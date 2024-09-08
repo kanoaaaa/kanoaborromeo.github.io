@@ -1,13 +1,13 @@
 ---
 layout: project
 type: project
-image: img/39723220-dictionary-definition-of-the-word-translation.jpg
+image: img/39723220-dictionary-definition-of-the-word-translation copy.jpeg
 title: "Hawaiian-English Dictionary"
 date: 2024
 published: true
 labels:
   - Python
-summary: "My partner and myself used AVL trees to efficiently manage a Hawaiian-English dictionary that supports fast search, insertion, and deletion of sayings and translations."
+summary: "A partner and myself used AVL trees to efficiently manage a Hawaiian-English dictionary that supports fast search, insertion, and deletion of sayings and translations."
 ---
 Kanoa Borromeo and Chester Leoso
 ICS-311: Assignment 2 - Hawaiian/English Dictionary
