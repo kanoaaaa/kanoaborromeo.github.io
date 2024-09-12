@@ -46,6 +46,7 @@ Effort: The asker implicitly demonstrates a baseline understanding of topics suc
 These elements align with Raymonds principles for what constitutes a smart question that is well thought out.
 
 
+
 Not-Smart Question:
 https://stackoverflow.com/beta/discussions/78232934/what-is-the-best-way-to-learn-python
 
@@ -60,8 +61,17 @@ Vagueness: The question is too broad and does not apply additional context for w
 These elements align with Raymonds principles for what falls under the category of a not-smart question. 
 
 
+
 Conclusion
 
-	Questions are the bridges between uncertainty and clarity. Some bridges are straightforward and easy to follow, while others trap people in a maze of confusion. Society thrives on questions and inquisitive thoughts, as they help redirect and elevate ideas that might not have been considered before. While questions are necessary in life, good questions are highly valued. As Raymond (2014) explains, “If you give us an interesting question to chew on, we’ll be grateful to you; good questions are a stimulus and a gift. Good questions help us develop our understanding and often reveal problems we might not have noticed or thought about otherwise.” People enjoy a question that makes them think rather than a question that creates stress. There are many characteristics of a smart question, but key traits such as a show of effort and clarity go a long way in intriguing potential responders to reply. People should never stop asking questions, but the questions being posed need to be worthy of the time and attention of those who answer.
+Questions are the bridges between uncertainty and clarity. Some bridges are straightforward and easy to follow, while others trap people in a maze of confusion. Society thrives on questions and inquisitive thoughts, as they help redirect and elevate ideas that might not have been considered before. While questions are necessary in life, good questions are highly valued. As Raymond (2014) explains, “If you give us an interesting question to chew on, we’ll be grateful to you; good questions are a stimulus and a gift. Good questions help us develop our understanding and often reveal problems we might not have noticed or thought about otherwise.” People enjoy a question that makes them think rather than a question that creates stress. There are many characteristics of a smart question, but key traits such as a show of effort and clarity go a long way in intriguing potential responders to reply. People should never stop asking questions, but the questions being posed need to be worthy of the time and attention of those who answer.
+
+Sources
+
+Clarkesushil                          Clarkesushil. “Parallel Computation within Same Laptop Using R.” Stack Overflow, 11 Dec. 1969, stackoverflow.com/beta/discussions/78902935/parallel-computation-within-same-laptop-using-r. 
+
+How to Ask Questions the Smart Way, www.catb.org/esr/faqs/smart-questions.html. Accessed 12 Sept. 2024. 
+
+Sillydarla                          Sillydarla, et al. “What Is the Best Way to Learn Python???” Stack Overflow, 27 Mar. 2024, stackoverflow.com/beta/discussions/78232934/what-is-the-best-way-to-learn-python. 
 
 
