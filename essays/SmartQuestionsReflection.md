@@ -10,10 +10,6 @@ labels:
   - Technical Essay
 ---
 
-# How 2 Write a Gud Q?: A Guide on Avoiding Dumb Questions
-
-## 12 Sep 2024
-
 ### Intro
 Yes, dumb questions do exist. Educators misguide students with the myth that any question is a good question. While asking questions is important to resolve confusion, the essence of the question must be qualified to elicit the time of a thoughtful response. Questioning is a transactional process that engages in asking for someone to provide a dedicated response. In order to uphold the asker’s end of the transaction, Eric Raymond outlines the differences between asking a “Smart Question” and a “Not-Smart Question.” Eric Raymond (2014) and his analysis, “How to ask questions the smart way,” begins pointing out how poorly-thought questions frustrate and alienate potential responders. People who rely on others instead of attempting to resolve their own issues are, as Raymond (2014) explains, “time sinks – they take without giving back, and they waste time we could have spent on another question more interesting and another person more worthy of an answer.” Laziness and lack of effort do not merit a quality response.
 
