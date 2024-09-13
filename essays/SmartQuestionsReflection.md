@@ -2,13 +2,14 @@
 layout: essay
 type: essay
 title: "How 2 Write a Gud Q?: A guide on Avoiding Dumb Questions"
-# All dates must be YYYY-MM-DD format!
 date: 2024-09-12
 published: true
 labels:
   - StackOverflow
   - Writing
   - Technical Essay
+---
+
 
 (Intro)
 
