@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Leveraging mindsets and tools to efficiently web design"
+title: "Leveraging Mindsets and Tools to Efficiently Web Design"
 # All dates must be YYYY-MM-DD format!
 date: 2024-10-10
 published: true
