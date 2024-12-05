@@ -9,7 +9,8 @@ labels:
   - Design Patterns
 ---
 
-![Cookie cutters on dough](img/CookieCutter.jpeg)
+![Cookie cutters on dough](/img/vacay/CookieCutter.jpeg)
+
 
 (Cookies and code)  
 The holiday season brings with it the timeless tradition of baking Christmas cookies. Once the dough is prepped and rolled out, the fun begins—cutting out festive shapes like Christmas trees and snowflakes, ready to be decorated with icing and sprinkles. But cutting each shape by hand is inefficient and often leads to inconsistent results. Cookie cutters solve this problem by providing ready-made templates that stamp out perfect, uniform shapes with ease. Their reusability is what makes them so effective: with one tool, you can quickly produce dozens of identical cookies without the hassle of sculpting each one by hand. In software development, design patterns serve a similar purpose. Design patterns offer a blueprint for organizing code to improve scalability and maintainability. By adhering to design patterns, developers avoid trying to conjure up new solutions for recurring issues. These reusable solutions allow developers to efficiently and consistently address recurring challenges in code.
