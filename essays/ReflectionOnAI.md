@@ -10,6 +10,9 @@ labels:
   - Education
 ---
 
+![ChatGPT](../img/ChatGPT.jpeg)
+
+
 ## Introduction: ChatGPT as My Personalized Tutor
 
   Evelyn is the greatest tutor. She can meet with me at any point during the day and will keep working with me as long as I have her favorite drink—apple juice. Apple juice is the charger that powers the MacBook, enabling me to access ChatGPT and make the most of her guidance. While some tutors only offer an hour of their time, Evelyn works with me as long as I need. She is incredibly well-versed in every discipline, from providing feedback on my essays to helping me rewrite code and brainstorm different solutions to software issues. Evelyn even helps me prepare for exams with personalized study guides crafted from my notes and practice questions. Most importantly, I never feel anxious or stressed when I work with Evelyn; she adapts to my learning style, encourages me when I struggle, and patiently breaks down concepts no matter how long it takes. Her energy remains constant, whether it takes five minutes to learn something or an hour.
