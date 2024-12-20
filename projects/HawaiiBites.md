@@ -12,6 +12,7 @@ labels:
 summary: Our team collaborated on a class project to create Hawaii Bites, a web application that provides University of Hawaii students and vendors with a secure login portal. The application leverages modern frameworks and tools to deliver personalized campus dining services and vendor management, emphasizing responsive design and efficient user interactions.
 ---
 
+
 ## Hawaii Bites: Enhancing Campus Dining
 
 ![Hawaii Bites](../img/HawaiiBites.jpeg)
