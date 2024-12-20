@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/UHManoa.jpeg
+image: img/UHManoaLogo.jpeg
 title: "Hawaii Bites"
 date: 2024
 published: true
