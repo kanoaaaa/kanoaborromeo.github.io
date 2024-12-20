@@ -9,10 +9,8 @@ labels:
   - Computer Science
 ---
 
-**Dominic Kanoa Borromeo**  
-ICS 314  
-Prof. Conner  
-09/26/2024  
+![Traffic Stop](../img/TrafficStop.jpeg)
+
 
 ## Coding Standards: The Traffic Lights in Computer Science
 
