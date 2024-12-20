@@ -10,6 +10,9 @@ labels:
   - Agile Project Management
 ---
 
+![Bruce Lee](../img/BruceLee.jpeg)
+
+
 ## Mastery Through Application
 
   Bruce Lee once said, “Boards don't hit back.” In *Enter the Dragon*, Bruce Lee explains this sentiment before engaging and defeating his enemy. Bruce notes that no matter how much one trains techniques on practice boards, it will never compare with the experience of a true fight. While one can spend years perfecting their understanding of techniques, it is a waste if the techniques are never put to use. Mastery is revealed, not through acquiring knowledge, but through exercising knowledge. In software engineering, the same principle applies–true understanding comes from applying real software engineering concepts. ICS 314 is the perfect course that exemplifies this balance by combining the study of fundamental principles with practical, work-related application. Two concepts that highlight this balance are learning coding standards and agile project management, both of which carried a significant role in my development as a software engineer this semester.
