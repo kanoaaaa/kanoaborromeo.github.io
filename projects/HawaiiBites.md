@@ -14,7 +14,7 @@ summary: Our team collaborated on a class project to create Hawaii Bites, a web 
 
 ## Hawaii Bites: Enhancing Campus Dining
 
-<img src="../img/HawaiiBites.jpeg" alt="Hawaii Bites" style="max-width: 600px; height: auto; display: block; margin: 0 auto;">
+<img src="../img/UHManoaLogo.jpeg" alt="Hawaii Bites Logo" style="width: 300px; height: auto; display: block; margin: 0 auto;">
 
 ### Overview
 Hawaii Bites is a secure and intuitive login portal designed for University of Hawaii students and vendors. The application provides personalized services, helping students discover and access dining options on campus while offering vendors a platform to manage their listings. This project emphasizes user-friendly design and robust functionality to create a seamless experience for both students and vendors.
@@ -37,7 +37,7 @@ Through this project, I gained valuable experience in:
 ### Screenshots
 Here’s a preview of the Hawaii Bites application:
 
-<img src="../img/HawaiiBites.jpeg" alt="Hawaii Bites Login Page" style="max-width: 600px; height: auto; display: block; margin: 0 auto;">
+<img src="../img/HawaiiBites.jpeg" alt="Hawaii Bites Login Page" style="width: 300px; height: auto; display: block; margin: 0 auto;">
 
 ### GitHub Repository
 To view the source code and learn more about the Hawaii Bites project, visit the [Hawaii Bites GitHub Organization Page](https://hawaii-bites.github.io).
