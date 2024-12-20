@@ -6,8 +6,10 @@ title: "Hawaii Bites"
 date: 2024
 published: true
 labels:
-  - Next.js, React, PostgreSQL
-summary: summary: Our team collaborated on a class project to create Hawaii Bites, a web application that provides University of Hawaii students and vendors with a secure login portal. The application leverages modern frameworks and tools to deliver personalized campus dining services and vendor management, emphasizing responsive design and efficient user interactions.
+  - Next.js
+  - React
+  - PostgreSQL
+summary: Our team collaborated on a class project to create Hawaii Bites, a web application that provides University of Hawaii students and vendors with a secure login portal. The application leverages modern frameworks and tools to deliver personalized campus dining services and vendor management, emphasizing responsive design and efficient user interactions.
 ---
 
 ## Hawaii Bites: Enhancing Campus Dining
