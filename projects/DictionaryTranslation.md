@@ -10,7 +10,7 @@ labels:
 summary: "A partner and myself used AVL trees to efficiently manage a Hawaiian-English dictionary that supports fast search, insertion, and deletion of sayings and translations."
 ---
 
-![Hawaiian Dictionary](../img/HawaiianDictionary.jpeg)
+![Hawaiian Dictionary](../img/HawaiiDictionary.jpeg)
 
 
 class Node:
