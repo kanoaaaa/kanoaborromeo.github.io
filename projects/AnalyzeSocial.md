@@ -9,8 +9,9 @@ labels:
   - Python
 summary: "A partner and myself collaborated on a class assignment to analyze social networks by using graph theory to analyze trending content and post references with algorithms and data structures like networkx and word clouds."
 ---
-Kanoa Borromeo and Chester Leoso
-ICS-311: Assignment 5
+
+![Social Media](../img/SocialMedia.jpeg)
+
 
 import networkx as nx
 import matplotlib.pyplot as plt
