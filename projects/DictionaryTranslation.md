@@ -9,8 +9,9 @@ labels:
   - Python
 summary: "A partner and myself used AVL trees to efficiently manage a Hawaiian-English dictionary that supports fast search, insertion, and deletion of sayings and translations."
 ---
-Kanoa Borromeo and Chester Leoso
-ICS-311: Assignment 2 - Hawaiian/English Dictionary
+
+![Hawaiian Dictionary](../img/HawaiianDictionary.jpeg)
+
 
 class Node:
     def __init__(self, saying, english_translation, hawaiian_explanation, english_explanation):
